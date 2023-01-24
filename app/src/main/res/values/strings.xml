@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavedStateChanges</string>
+    <string name="txtBtnChange">Click me!</string>
+    <string name="txtTextChanged">DOOM</string>
+</resources>
